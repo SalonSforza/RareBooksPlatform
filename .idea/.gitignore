@@ -7,4 +7,17 @@
 /dataSources/
 /dataSources.local.xml
 
+#For idea settings
+.idea/
+#For gradle build
+build/
 
+#Java config files
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+
+#Log files
+*.log
